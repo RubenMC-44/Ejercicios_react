@@ -11,7 +11,7 @@ function Ejercicio4() {
     return ( 
         <div>
             <h1> Ejercicio 4 </h1>
-            <h2> <Link to="/index">Volver al índice</Link> </h2>
+            <h2> <Link to="/">Volver al índice</Link> </h2>
         <input  
                 type = 'text' 
                 value = {busqueda} 

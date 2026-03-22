@@ -54,7 +54,7 @@ const reiniciar = () => {
 return (
     <div>
     <h1> Ejercicio 6</h1>
-    <h2> <Link to="/index">Volver al índice</Link> </h2>
+    <h2> <Link to="/">Volver al índice</Link> </h2>
     <div> {String(horas).padStart(2,'0')}:{String(minutos).padStart(2,'0')}:{String(segundos).padStart(2,'0')}</div>
     <div> 
         <button onClick={iniciar}>Iniciar</button>

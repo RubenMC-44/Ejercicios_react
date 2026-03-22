@@ -44,7 +44,7 @@ function Ejercicio5 () {
 return (
     <div>
         <h1> Ejercicio 5</h1>
-        <h2> <Link to="/index">Volver al índice</Link> </h2>
+        <h2> <Link to="/">Volver al índice</Link> </h2>
         <div>
             <input 
             type="number"

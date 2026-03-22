@@ -13,7 +13,7 @@ function Ejercicio2 () {
         <div>
         <div> 
             <h1> Ejercicio 2 </h1>
-            <h2> <Link to="/index">Volver al índice</Link> </h2>
+            <h2> <Link to="/">Volver al índice</Link> </h2>
             <button onClick={sumarClicks}>
             Sumar clicks {contador}
             </button>

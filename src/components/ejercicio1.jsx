@@ -12,7 +12,7 @@ function Ejercicio1 () {
     return (
         
     <div style={{ backgroundColor: color, minHeight: '100vh' }}>
-        <h2> <Link to="/index">Volver al índice</Link> </h2>
+        <h2> <Link to="/">Volver al índice</Link> </h2>
         <div> 
             <h1 style = {{color: 'black'}}> Ejercicio 1 </h1>
             <button onClick={changeColor}>

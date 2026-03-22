@@ -24,7 +24,7 @@ function Ejercicio7(){
     return(
         <div>
             <h1> Ejercicio 7</h1>
-            <h2> <Link to="/index">Volver al índice</Link> </h2>
+            <h2> <Link to="/">Volver al índice</Link> </h2>
         <div>
         <input
                 type = 'text' 
